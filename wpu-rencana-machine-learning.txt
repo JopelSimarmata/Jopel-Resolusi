@@ -1,0 +1,5 @@
+RENCANA MACHINE LEARNING
+  - Linear Algebra
+  - Python
+    - memahami mathplot
+  
