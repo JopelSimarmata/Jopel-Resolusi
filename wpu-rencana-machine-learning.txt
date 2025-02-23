@@ -1,0 +1,3 @@
+RENCANA MACHINE LEARNING
+  - Linear Algebra
+  - Python
