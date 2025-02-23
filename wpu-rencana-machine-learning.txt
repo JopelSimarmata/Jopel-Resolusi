@@ -2,5 +2,7 @@ RENCANA MACHINE LEARNING
   - Linear Algebra
   - Python
     - memahami mathplot
+    - Open CV
   - Mempelajari deep learning
+  - Mempelajari framework Laravel 11
   
