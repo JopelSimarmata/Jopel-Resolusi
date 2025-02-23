@@ -4,5 +4,5 @@ RENCANA MACHINE LEARNING
     - memahami mathplot
     - Open CV
   - Mempelajari deep learning
-  - Mempelajari framework Laravel
+  - Mempelajari framework Laravel 11
   
