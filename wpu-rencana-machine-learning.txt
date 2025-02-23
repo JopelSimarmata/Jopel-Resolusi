@@ -3,4 +3,5 @@ RENCANA MACHINE LEARNING
   - Python
     - memahami mathplot
   - Mempelajari deep learning
+  - Membuat MVC sendiri
   
